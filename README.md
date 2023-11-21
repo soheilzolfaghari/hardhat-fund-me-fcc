@@ -1,5 +1,8 @@
 # hardhat-fund-me-fcc
 
+# Frontend Repo
+had some problems with Github. here's the link to the frontned repo:
+https://github.com/soheilzolfaghari/fundme-frontend
 
 ## Video Recording
 
